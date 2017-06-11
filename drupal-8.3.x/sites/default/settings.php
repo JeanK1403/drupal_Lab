@@ -765,8 +765,8 @@ $settings['file_scan_ignore_directories'] = [
 # }
 $databases['default']['default'] = array (
   'database' => 'db_116000659_servicios_medicos',
-  'username' => 'admin',
-  'password' => 'admin',
+  'username' => 'student',
+  'password' => '1234$una',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
